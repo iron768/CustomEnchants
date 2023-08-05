@@ -7,7 +7,11 @@ A custom enchants plugin for 1.20.1. This started as a recode/port of PixelyMC's
 ## Requirements:
 [NBTAPI](https://www.spigotmc.org/resources/nbt-api.7939/)
 
-Armor equipping is from this [library](https://www.spigotmc.org/threads/arnuhs-armorequipevent.545188/)
+## Special thanks
+
+Tabbin's original codebase for PixelyMC's custom enchant.
+
+Armor equipping [library](https://www.spigotmc.org/threads/arnuhs-armorequipevent.545188/)
 
 ## Features:
 
