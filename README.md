@@ -2,7 +2,7 @@
 A custom enchants plugin for 1.20.1. This started as a recode/port of PixelyMC's Custom Enchants to fix a bug with players getting multiple copies of enchants they already have. The direction of this plugin can change on a whim as I decide what to work on.
 
 > [!IMPORTANT]
-> This plugin is very early in development and will most likely have many bugs, THIS SHOULD NOT BE RAN IN PRODUCTION ENVIRONMENTS!. If you encounter any bugs please make an issue and follow the bug report format, thanks.
+> This plugin is very early in development and will most likely have many bugs, THIS SHOULD NOT BE RAN IN PRODUCTION ENVIRONMENTS! If you encounter any bugs please make an issue and follow the bug report format, thanks.
 
 ## Requirements:
 [NBTAPI](https://www.spigotmc.org/resources/nbt-api.7939/)
@@ -17,7 +17,7 @@ Armor equipping [library](https://www.spigotmc.org/threads/arnuhs-armorequipeven
 
 ### Completed:
 ```
-All enchants implemented are 100% complete and working.
+All enchants currently implemented are 100% complete and working.
 
 Enchant types:
 Hold item,
