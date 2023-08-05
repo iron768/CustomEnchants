@@ -1,0 +1,9 @@
+name: CustomEnchants
+version: '${project.version}'
+main: me.iron768.customenchants.CustomEnchants
+api-version: '1.20'
+depend: [NBTAPI]
+
+commands:
+  debug:
+  customenchant:
