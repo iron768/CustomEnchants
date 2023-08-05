@@ -4,14 +4,14 @@ A custom enchants plugin for 1.20.1. This started as a recode/port of PixelyMC's
 > [!IMPORTANT]
 > This plugin is very early in development and will most likely have many bugs, THIS SHOULD NOT BE RAN IN PRODUCTION ENVIRONMENTS!. If you encounter any bugs please make an issue and follow the bug report format, thanks.
 
-Requirements:
+## Requirements:
 [NBTAPI](https://www.spigotmc.org/resources/nbt-api.7939/)
 
 Armor equipping is from this [library](https://www.spigotmc.org/threads/arnuhs-armorequipevent.545188/)
 
-##Features:
+## Features:
 
-Completed:
+### Completed:
 ```
 All enchants implemented are 100% complete and working.
 
@@ -27,7 +27,7 @@ Overload,
 Springs
 ```
 
-To do:
+### To do:
 ```
 GUI handling/api
 
