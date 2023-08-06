@@ -8,6 +8,7 @@ A custom enchants plugin for 1.20.1. This started as a recode/port of PixelyMC's
 These plugins must be ran on the server alongside the custom enchants plugin.
   
 [NBTAPI](https://www.spigotmc.org/resources/nbt-api.7939/) 
+
 [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 
 ## Special thanks
