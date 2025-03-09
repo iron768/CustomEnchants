@@ -1,6 +1,9 @@
 # CustomEnchants
 A custom enchants plugin for 1.20.1. This started as a recode/port of PixelyMC's Custom Enchants to fix a bug with players getting multiple copies of enchants they already have. The direction of this plugin can change on a whim as I decide what to work on.
 
+> [!WARNING]
+> I have since abandoned this project due to me not working with Minecraft plugin development anymore, if you use this codebase please just give credit and make it open source. Thanks.
+
 > [!IMPORTANT]
 > This plugin is very early in development and will most likely have many bugs, THIS SHOULD NOT BE RAN IN PRODUCTION ENVIRONMENTS! If you encounter any bugs please make an issue and follow the bug report format, thanks.
 
